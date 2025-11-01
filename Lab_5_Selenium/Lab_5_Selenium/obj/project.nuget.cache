@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "gu2qRJTlkrA=",
+  "dgSpecHash": "k70CEVxqA1s=",
   "success": true,
   "projectFilePath": "/Users/danilgavriluk/Library/CloudStorage/OneDrive-Personal/Programming/C#/lab_5_kpi/Lab_5_Selenium/Lab_5_Selenium/Lab_5_Selenium.csproj",
   "expectedPackageFiles": [
@@ -13,6 +13,10 @@
     "/Users/danilgavriluk/.nuget/packages/nunit/4.2.2/nunit.4.2.2.nupkg.sha512",
     "/Users/danilgavriluk/.nuget/packages/nunit.analyzers/4.4.0/nunit.analyzers.4.4.0.nupkg.sha512",
     "/Users/danilgavriluk/.nuget/packages/nunit3testadapter/4.6.0/nunit3testadapter.4.6.0.nupkg.sha512",
+    "/Users/danilgavriluk/.nuget/packages/selenium.support/4.38.0/selenium.support.4.38.0.nupkg.sha512",
+    "/Users/danilgavriluk/.nuget/packages/selenium.webdriver/4.38.0/selenium.webdriver.4.38.0.nupkg.sha512",
+    "/Users/danilgavriluk/.nuget/packages/selenium.webdriver.chromedriver/143.0.7499.400-beta/selenium.webdriver.chromedriver.143.0.7499.400-beta.nupkg.sha512",
+    "/Users/danilgavriluk/.nuget/packages/seleniumextras.waithelpers/1.0.2/seleniumextras.waithelpers.1.0.2.nupkg.sha512",
     "/Users/danilgavriluk/.nuget/packages/system.reflection.metadata/1.6.0/system.reflection.metadata.1.6.0.nupkg.sha512"
   ],
   "logs": []
